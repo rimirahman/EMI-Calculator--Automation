@@ -24,7 +24,7 @@
 - Stable internet connection
 
 
-## Automate calculator app and do following tests:
+## Automate EMI-Calculator app and do following tests:
 
 If an user take loan (?) tk from a bank with interest of (?)% and  want to give (?) tk per month as EMI (installment) and processing fee (?)%, how many time period it will take to complete the loan? Take the values from dataset and assert the monthly EMI, total interest, processing fee amount and total payment from the result view. (See below image)
 For solve this question, create a dataset using following values:
